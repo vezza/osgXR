@@ -10,6 +10,7 @@
 #include <osgXR/Export>
 #include <osgXR/MirrorSettings>
 
+#include <stdint.h>
 #include <string>
 
 namespace osgXR {
